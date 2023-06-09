@@ -2,7 +2,7 @@
 <html lang="es-mx">
 <head>
     <meta charset="UTF-8">
-    <title>CiTIM Grupo XB</title>
+    <title>Zone</title>
     <link rel="stylesheet" href="css/estilos.css"/>
     <link rel="stylesheet" href="css/menu.css"/>
     <link rel="stylesheet" href="css/problemas.css"/>
@@ -21,7 +21,7 @@
       <section  class="problema">
         <h2>Problema: Cálcular la razón F0/F1</h2>
         <p>Descripción:</p>
-        <p>La distancia media entre la Tierra y el Sol es 400 veces la distancia de la Luna a la Tierra. Denotando la fuerza entre la Tierra y el Sol como F0 y la fuerza entre la Tierra y la Luna como F1. Si la masa de la Tierra es aproximadamente 81 veces la de Luna y la Masa del Sol es 332,946 veces la masa de la Tierra, ¿cuál es la razón F0/F1?</p>
+        <p> ¿Cuál es la aceleración por la fuerza de gravedad de la Luna, en relación con la de la Tierra?</p>
       </section>
       <section  class="esquemaProblema">
         <h2>Esquema</h2>
